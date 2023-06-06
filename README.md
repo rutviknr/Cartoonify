@@ -1,6 +1,6 @@
 # Cartooning
 Cartoonify: Cartoon Image Generation using OpenCV
-Cartoonify
+
 
 This repository contains a project that utilizes OpenCV to transform images into cartoon-like representations. The goal of this project is to provide a simple and fun way to cartoonize images using computer vision techniques. This README provides an overview of the project, installation instructions, usage guide, and contribution guidelines.
 
@@ -16,9 +16,8 @@ Cartoonify is a Python project that aims to transform regular images into cartoo
 Installation
 To use the Cartoonify project, follow these steps:
 
-Clone the repository: git clone https://github.com/username/cartoonify.git
+Clone the repository: git clone https://github.com/rutviknr/cartoonify.git
 Navigate to the project directory: cd cartoonify
-Install the required dependencies: pip install -r requirements.txt
 Make sure you have Python and OpenCV installed on your system before proceeding with the installation.
 
 Usage
