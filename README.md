@@ -1,4 +1,4 @@
-# Cartooning
+# Cartoonify
 Cartoonify: Cartoon Image Generation using OpenCV
 
 
